@@ -1,0 +1,16 @@
+name,subject,score,grade,hours_studied
+Alice,Maths,85,B,12
+Bob,Maths,92,A,15
+Charlie,Maths,78,C,8
+Diana,Maths,96,A,18
+Eve,Maths,88,B,11
+Alice,English,79,C,10
+Bob,English,88,B,14
+Charlie,English,71,C,7
+Diana,English,94,A,17
+Eve,English,83,B,12
+Alice,Science,90,A,13
+Bob,Science,76,C,9
+Charlie,Science,82,B,10
+Diana,Science,98,A,20
+Eve,Science,86,B,11
